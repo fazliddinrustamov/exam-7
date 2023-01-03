@@ -1,0 +1,50 @@
+[
+    {
+        "event_id": 1,
+        "status": "active",
+        "date": "10-01-2023",
+        "category_id": "1",
+        "sub_category_id": "2",
+        "type": "online",
+        "event_link": "https://www.youtube.com/@najottalim",
+        "profession": "Engineer",
+        "fullname": "Fazliddin Rustamov",
+        "contact": "+998974120402",
+        "title": "hgfhkbdcjenseurcfeht",
+        "description": "edsfxadcfvhfbdjcnkfhvubygcgb",
+        "eventImg": "1672736268756bmw.jpg",
+        "text": "fdasscxhgfbcjdnkmxcfhuvybgcjdkadcf"
+    },
+    {
+        "event_id": 2,
+        "status": "active",
+        "date": "10-01-2024",
+        "category_id": "1",
+        "sub_category_id": "2",
+        "type": "online",
+        "event_link": "https://www.youtube.com/@najottalim",
+        "profession": "Engineer",
+        "fullname": "Fazliddin Rustamov",
+        "contact": "+998974120402",
+        "title": "hgfhkbdcjenseurcfeht",
+        "description": "edsfxadcfvhfbdjcnkfhvubygcgb",
+        "eventImg": "1672736314781bmw.jpg",
+        "text": "fdasscxhgfbcjdnkmxcfhuvybgcjdkadcf"
+    },
+    {
+        "event_id": 3,
+        "status": "rejected",
+        "date": "10-01-2024",
+        "category_id": "1",
+        "sub_category_id": "1",
+        "type": "online",
+        "event_link": "https://www.youtube.com/@najottalim",
+        "profession": "Engineer",
+        "fullname": "Fazliddin Rustamov",
+        "contact": "+998974120402",
+        "title": "hgfhkbdcjenseurcfeht",
+        "description": "edsfxadcfvhfbdjcnkfhvubygcgb",
+        "eventImg": "1672736383459bmw.jpg",
+        "text": "fdasscxhgfbcjdnkmxcfhuvybgcjdkadcf"
+    }
+]
