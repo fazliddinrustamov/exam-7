@@ -12,6 +12,8 @@ events.get('/events', GET);
 
 events.post('/events', POST, NEWEVENT);
 
+// POST FROM BODY FORM-DATA !!!
+
 events.get('/events/:event_id', GETBYID);
 
 export { 
